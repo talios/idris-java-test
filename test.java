@@ -969,7 +969,7 @@ public @SuppressWarnings("unchecked")
   {
     public static Object __IDRCG__main ()
     {
-      final Object loc0 = (String) "Hello World";
+      final Object loc0 = (String) "Hello Mark, how are you?";
       final Object loc1 = Closure.unwrapTailCall(test.__IDRCG__Prelude.__IDRCG__StringInstanceOfPrelude_DotShow_ColonmethodShow_Colon0(loc0));
       final Object loc2 = Closure.unwrapTailCall(__IDRCG__EVAL_0(loc1));
       final Object loc3 = (String) "\n";
